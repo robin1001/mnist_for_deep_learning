@@ -1,6 +1,10 @@
 # Experiment on Mnist
 
+Some deep learning experiments on Mnist dataset, for quick implementation and verification.
+
 ## SVD Compression
+
+> Restructuring of Deep Neural Network Acoustic Models with Singular Value Decomposition 
 
 | Model(hidden layer) | Number of parameters | Compression ratio | accuracy | SVD retraining accuracy |
 |---------------------|----------------------|-------------------|----------|-------------------------|
